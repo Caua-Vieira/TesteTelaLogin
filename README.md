@@ -62,5 +62,4 @@ Após o projeto ser devidamente instaldo, basta rodá-lo em run -> run as -> JUn
 - JUnit
 
 ## Desenvolvedores/Contribuintes:
-Desenvolvedor: Cauã da Silva Vieira
-Colaborador: Daniel Domingos Akira de Sa Pimentel Ohata e Centro universitário Facens
+Desenvolvedor: Cauã da Silva Vieira e Colaboradores: Daniel Domingos Akira de Sa Pimentel Ohata e Centro universitário Facens
